@@ -28,6 +28,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 This project uses those packages:
 - Vue.js v2x
 - vue-router
-- BootStrapVue
+- BootStrapVue for Styling
 
 You can find a in the first commit a good basic setup for the mentioned three packages. 
